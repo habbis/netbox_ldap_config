@@ -1,4 +1,14 @@
 # netbox_ldap_config
+
+You need the package 
+```
+python3-dev
+```
+Or spesific version.
+```
+python39-dev
+```
+
 Example ldap config for netbox working with openldap and synology ldap. 
 
 Should work with freeipa with some changes since its based on openldap.
